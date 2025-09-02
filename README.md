@@ -1,7 +1,14 @@
 # pbl-blc-emulator
 
 **Observation-driven deep-learning emulator** for **planetary boundary layer height (PBLH)** and **boundary-layer clouds (BLCs)** using **morning soundings** and **diurnally varying surface meteorology/fluxes**.
-ARM observation–validated; applicable to ERA5/MERRA-2 inputs.
+**ARM Observation–validated; applicable to ERA5/MERRA-2 inputs.**
+
+---
+
+## **Author**
+
+**Tianning Su** — Lawrence Livermore National Laboratory (LLNL)
+📧 **[su10@llnl.gov](mailto:su10@llnl.gov)**
 
 ---
 
@@ -17,11 +24,11 @@ ARM observation–validated; applicable to ERA5/MERRA-2 inputs.
 * **Surface meteorology/fluxes:** **N×14** for **local time 04–17** (exactly 14 hourly columns)
 * **Morning sounding:** **one profile per day** (\~06 LT)
 
-**Outputs:** daily arrays over **LT 04–17** and a 2-D cloud profile.
+**Outputs:** daily arrays over **LT 04–17** and a 3-D cloud profile.
 
 ---
 
-## **How to use (notebook)**
+## **How to use (notebook-first)**
 
 ### **1) Prepare inputs**
 
