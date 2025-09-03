@@ -63,7 +63,7 @@ The notebooks save:
 * `cldcf (LM×14×11)`, `cldthick (LM×14)`, `cld_prof (LM×14×150)`
 * `height (150)`, `date (LM)`
 
-> **All hour dimensions are LT 04–17.** *(If you plot 05–17, simply drop the first hour.)*
+> **All hour dimensions are LT 04–17.** 
 
 ---
 
