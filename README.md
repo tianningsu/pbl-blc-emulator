@@ -24,7 +24,7 @@
 * **Surface meteorology/fluxes:** **N×14** for **local time 04–17** (exactly 14 hourly columns)
 * **Morning sounding:** **one profile per day** (\~06 LT)
 
-**Outputs:** daily arrays over **LT 04–17** and a 3-D cloud profile.
+**Outputs:** daily arrays over **LT 04–17** and a 2-D cloud profile.
 
 ---
 
@@ -47,7 +47,7 @@
 ### **3) Analyze results**
 
 * Open **`Analyze_output.ipynb`** for an **example workflow** to visualize daily cloud profiles and PBLH and to export a **`YYYYMMDD.png`** plot.
-  *The plotting example lives in the notebook—no need to copy code into the README.*
+  *The plotting example lives in the notebook*
 
 ---
 
