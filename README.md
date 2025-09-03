@@ -28,11 +28,11 @@
 
 ---
 
-## **How to use (notebook-first)**
+## **How to use (notebook)**
 
 ### **1) Prepare inputs**
 
-* See **`process_input.m`** and follow the guidance inside **`Main.ipynb`** (first cells).
+* Run first cell inside **`Main.ipynb`**.
 * Expected files in **`./input/`**:
 
   * `Surface_Meteorology.mat`: `rh, u, v, p, pre, t, sh, lh, date` — each **N×14 (LT 04–17)**; `date` as **YYYYMMDD**
@@ -41,7 +41,7 @@
 
 ### **2) Run the DNN**
 
-* Open **`Main.ipynb`** and **run all cells**.
+* Run second cell inside **`Main.ipynb`**.
 * Models are expected under **`./models/`**; outputs are written to **`./output/`**.
 
 ### **3) Analyze results**
