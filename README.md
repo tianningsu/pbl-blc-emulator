@@ -7,8 +7,7 @@
 
 ## **Author**
 
-**Tianning Su** — Lawrence Livermore National Laboratory (LLNL)
-📧 **[su10@llnl.gov](mailto:su10@llnl.gov)**
+**Tianning Su** 
 
 ---
 
