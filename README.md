@@ -5,12 +5,6 @@
 
 ---
 
-## **Author**
-
-**Tianning Su** 
-
----
-
 ## **Purpose**
 
 * Estimate **PBLH**
@@ -70,15 +64,6 @@ The notebooks save:
 
 * **Surface inputs must be LT 04–17 (N×14).** Convert first if your data are in another window.
 * **Morning sounding:** one profile per day; used as initial/boundary condition.
-
----
-
-## **Citations**
-
-Please cite the following when using this repository:
-
-* **Su, T., & Zhang, Y. (2024).** *Deep-learning-driven simulations of boundary layer clouds over the Southern Great Plains.* **Geoscientific Model Development, 17**(16), 6319–6336.
-* **Su, T., & Zhang, Y. (2024).** *Deep-learning-derived planetary boundary layer height from conventional meteorological measurements.* **Atmospheric Chemistry and Physics, 24**(11), 6477–6493.
 
 ---
 
